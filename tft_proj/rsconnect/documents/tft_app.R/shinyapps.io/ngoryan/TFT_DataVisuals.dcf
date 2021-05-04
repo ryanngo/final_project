@@ -1,0 +1,13 @@
+name: TFT_DataVisuals
+title: TFT_DataVisuals
+username:
+account: ngoryan
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4075013
+bundleId: 4554080
+url: https://ngoryan.shinyapps.io/TFT_DataVisuals/
+when: 1620110602.38159
+lastSyncTime: 1620110602.3816
+asMultiple: FALSE
+asStatic: FALSE
